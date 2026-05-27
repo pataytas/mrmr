@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Calacatta Gold",
+    "aed": "AED 480/m²",
+    "eur": "€120/m²",
+    "image": "https://picsum.photos/1200?random=1"
+  },
+  {
+    "name": "Statuario",
+    "aed": "AED 560/m²",
+    "eur": "€140/m²",
+    "image": "https://picsum.photos/1200?random=2"
+  },
+  {
+    "name": "Nero Marquina",
+    "aed": "AED 420/m²",
+    "eur": "€105/m²",
+    "image": "https://picsum.photos/1200?random=3"
+  },
+  {
+    "name": "Arabescato Corchia",
+    "aed": "AED 640/m²",
+    "eur": "€160/m²",
+    "image": "https://picsum.photos/1200?random=4"
+  },
+  {
+    "name": "Panda White",
+    "aed": "AED 520/m²",
+    "eur": "€130/m²",
+    "image": "https://picsum.photos/1200?random=5"
+  },
+  {
+    "name": "Emperador Dark",
+    "aed": "AED 360/m²",
+    "eur": "€90/m²",
+    "image": "https://picsum.photos/1200?random=6"
+  },
+  {
+    "name": "Taj Mahal Quartzite",
+    "aed": "AED 720/m²",
+    "eur": "€180/m²",
+    "image": "https://picsum.photos/1200?random=7"
+  },
+  {
+    "name": "Patagonia Quartzite",
+    "aed": "AED 980/m²",
+    "eur": "€245/m²",
+    "image": "https://picsum.photos/1200?random=8"
+  },
+  {
+    "name": "Blue Roma",
+    "aed": "AED 840/m²",
+    "eur": "€210/m²",
+    "image": "https://picsum.photos/1200?random=9"
+  },
+  {
+    "name": "Cristallo Quartzite",
+    "aed": "AED 1100/m²",
+    "eur": "€275/m²",
+    "image": "https://picsum.photos/1200?random=10"
+  },
+  {
+    "name": "Invisible Grey",
+    "aed": "AED 580/m²",
+    "eur": "€145/m²",
+    "image": "https://picsum.photos/1200?random=11"
+  },
+  {
+    "name": "Bianco Lasa",
+    "aed": "AED 600/m²",
+    "eur": "€150/m²",
+    "image": "https://picsum.photos/1200?random=12"
+  }
+]
