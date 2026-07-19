@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Calacatta Gold",
+    "aed": "AED 480/m²",
+    "eur": "€120/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/calacatta-gold.jpg"
+  },
+  {
+    "name": "Statuario",
+    "aed": "AED 560/m²",
+    "eur": "€140/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Statuario.jpg"
+  },
+  {
+    "name": "Nero Marquina",
+    "aed": "AED 420/m²",
+    "eur": "€105/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Nero-Marquina.jpg"
+  },
+  {
+    "name": "Arabescato Corchia",
+    "aed": "AED 640/m²",
+    "eur": "€160/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Arabescato-Corchia.jpg"
+  },
+  {
+    "name": "Panda White",
+    "aed": "AED 520/m²",
+    "eur": "€130/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Panda-White.jpg"
+  },
+  {
+    "name": "Emperador Dark",
+    "aed": "AED 360/m²",
+    "eur": "€90/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/emperador-dark.jpg"
+  },
+  {
+    "name": "Taj Mahal Quartzite",
+    "aed": "AED 720/m²",
+    "eur": "€180/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Taj-Mahal-Quartzite.jpg"
+  },
+  {
+    "name": "Patagonia Quartzite",
+    "aed": "AED 980/m²",
+    "eur": "€245/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Patagonia-Quartzite.jpg"
+  },
+  {
+    "name": "Blue Roma",
+    "aed": "AED 840/m²",
+    "eur": "€210/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Blue-Roma.jpg"
+  },
+  {
+    "name": "Cristallo Quartzite",
+    "aed": "AED 1100/m²",
+    "eur": "€275/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Cristallo-Quartzite.jpg"
+  },
+  {
+    "name": "Invisible Grey",
+    "aed": "AED 580/m²",
+    "eur": "€145/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/invisible-grey.jpg"
+  },
+  {
+    "name": "Bianco Lasa",
+    "aed": "AED 600/m²",
+    "eur": "€150/m²",
+    "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/bianco-lasa.jpg"
+  },
+{
+  "name": "Volakas White",
+  "aed": "AED 510/m²",
+  "eur": "€128/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Volakas-White.jpg"
+},
+{
+  "name": "Breccia Capraia",
+  "aed": "AED 760/m²",
+  "eur": "€190/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/breccia-capraia.jpg"
+},
+{
+  "name": "Rosso Levanto",
+  "aed": "AED 430/m²",
+  "eur": "€108/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Rosso-Levanto.jpg"
+},
+{
+  "name": "Calacatta Viola",
+  "aed": "AED 890/m²",
+  "eur": "€222/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/calacatta-viola.jpg"
+},
+{
+  "name": "Iceberg Quartzite",
+  "aed": "AED 950/m²",
+  "eur": "€238/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Iceberg-Quartzite.jpg"
+},
+{
+  "name": "Travertino Romano",
+  "aed": "AED 340/m²",
+  "eur": "€85/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Travertino-Romano.jpg"
+},
+{
+  "name": "Grey Armani",
+  "aed": "AED 620/m²",
+  "eur": "€155/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Grey-Armani.jpg"
+},
+{
+  "name": "Lilac Marble",
+  "aed": "AED 790/m²",
+  "eur": "€198/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Lilac-Marble.jpg"
+},
+{
+  "name": "Onice Verde",
+  "aed": "AED 1200/m²",
+  "eur": "€300/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Onice-Verde.jpg"
+},
+{
+  "name": "Sahara Noir",
+  "aed": "AED 870/m²",
+  "eur": "€218/m²",
+  "image": "https://raw.githubusercontent.com/pataytas/mrmr/refs/heads/main/marble%20squares/Sahara-Noir.jpg"
+}
+]
